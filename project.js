@@ -12,7 +12,7 @@ function inputProject(event){
     } else if (description == ''){
         alert("Please fill the description!")
     } else if (uploadImage == ''){
-        alert("Please enter image project!")
+        alert("Please attach project!")
     } else{
         console.log("clear")
     }
